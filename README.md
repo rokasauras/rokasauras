@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rokas</h1>
-<h3 align="center">Physics grad diving into data science with Python, exploring new languages along the way.</h3>
+<h3 align="center">Physics grad diving into data science with Python, exploring new languages along the way. Getting myself involved with software development using C++ and Large Language Model development.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rokasauras&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
